@@ -15,7 +15,7 @@ I am an **Information Systems graduate** with a background in building scalable 
 * **Leadership:** Proven experience mentoring developers in **OOP and Data Structures**, ensuring code quality and best practices.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/thais-rodrigues-53106518a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/thais-rodrigues-queiroz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:thais.th90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/thaisNY?tab=followers"><img src="https://img.shields.io/github/followers/thaisNY?label=Followers&style=for-the-badge&color=236ad3&logo=github" /></a>
 </p>
